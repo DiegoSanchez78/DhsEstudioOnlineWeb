@@ -1,0 +1,23 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSanchez78/Dhs-Estudio-online.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiegoSanchez78/Dhs-Estudio-online/issues"
+  },
+  "homepage": "https://github.com/DiegoSanchez78/Dhs-Estudio-online#readme",
+  "dependencies": {
+    "sass": "^1.68.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
